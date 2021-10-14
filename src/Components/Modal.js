@@ -116,7 +116,7 @@ const Modal = () => {
                   <div class="row">
                     <ul id="lista_episodeos">
                       {episodios.map((ep) => (
-                        <EpisodiosModal episodio={ep} />
+                        <EpisodiosModal episodio={ep} key={ep._id} />
                       ))}
                     </ul>
                   </div>

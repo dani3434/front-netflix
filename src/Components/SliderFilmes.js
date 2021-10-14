@@ -14,7 +14,7 @@ const SliderFilmes = ({ secoes }) => {
 
       <div className="col-12">
         <ul class="filme_lista">
-          {secoes.map((item) => (
+          {secoes?.map((item) => (
             <FilmeSliderItem item={item} key={item._id} />
           ))}
         </ul>

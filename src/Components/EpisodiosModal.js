@@ -1,7 +1,6 @@
 import React from 'react';
 
 const EpisodiosModal = ({ episodio }) => {
-  console.log(episodio);
   return (
     <li>
       <div class="row">
