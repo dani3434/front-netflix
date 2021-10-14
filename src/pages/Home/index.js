@@ -36,7 +36,7 @@ const Index = () => {
       <Header />
       <Hero principal={principal} />
       <div id="main-content">
-        {sliders.map((slider) => (
+        {sliders?.map((slider) => (
           <SliderFilmes key={slider._id} secoes={slider} />
         ))}
       </div>
