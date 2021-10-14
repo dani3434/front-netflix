@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3f27977.chunk.css",
+    "main.js": "/static/js/main.3ea8cfdd.chunk.js",
+    "main.js.map": "/static/js/main.3ea8cfdd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94031f91.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94031f91.js.map",
+    "static/js/2.165665c0.chunk.js": "/static/js/2.165665c0.chunk.js",
+    "static/js/2.165665c0.chunk.js.map": "/static/js/2.165665c0.chunk.js.map",
+    "static/js/3.c589927c.chunk.js": "/static/js/3.c589927c.chunk.js",
+    "static/js/3.c589927c.chunk.js.map": "/static/js/3.c589927c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a3f27977.chunk.css.map": "/static/css/main.a3f27977.chunk.css.map",
+    "static/js/2.165665c0.chunk.js.LICENSE.txt": "/static/js/2.165665c0.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/static/media/capa-filme.7a95713a.png",
+    "static/media/diabo-de-cada-dia.da8fceb1.png": "/static/media/diabo-de-cada-dia.da8fceb1.png",
+    "static/media/logo.417aaab0.png": "/static/media/logo.417aaab0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94031f91.js",
+    "static/js/2.165665c0.chunk.js",
+    "static/css/main.a3f27977.chunk.css",
+    "static/js/main.3ea8cfdd.chunk.js"
+  ]
+}
